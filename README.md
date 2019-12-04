@@ -1,1 +1,1 @@
-Lista---Matem-tica-Discreta
+Lista de Matemática Discreta.
